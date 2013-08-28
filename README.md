@@ -1,1 +1,1 @@
-Built with the aid of Bootstrap, Animate.css and Prinzhorn's Skrollr. 
+Built with the aid of Twitter Bootstrap, Animate.css and Prinzhorn's Skrollr. 
